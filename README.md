@@ -1,3 +1,3 @@
 # Pandas Tutorial
 
-Some notes about pandas framework
+Some notes about pandas library
